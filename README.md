@@ -3,7 +3,7 @@
 <h2 >💻 Sobre o projeto</h2>
 
 <p>
-Projeto criado com React-Js,Redux e Hooks consumindo uma api fake.Aonde é possivel aumentando,dimunuindo a quantidade de reserva  e consultar o estoque.  <br>
+Projeto criado com React-Js,Redux e Hooks consumindo uma api fake.Aonde é possivel aumentar,dimunuir a quantidade de reserva  e consultar o estoque.  <br>
 </p>
 
 
